@@ -30,3 +30,4 @@ Informe o ARN da função aqui depois de criada.
 
 ## 🔗 Repositório GitHub
 [https://github.com/seuusuario/lambda-send-email](https://github.com/seuusuario/lambda-send-email)
+# lambda-send-email
