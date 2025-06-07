@@ -26,7 +26,7 @@ Use o botão **Testar** no console Lambda para validar a execução.
 Certifique-se de que a função está em modo privado e que os e-mails foram verificados (modo sandbox limita destinatários).
 
 ## 🔗 Link Lambda
-Informe o ARN da função aqui depois de criada.
+arn:aws:ses:sa-east-1:023703779349:identity/Alexandre.budny1@gmail.com
 
 ## 🔗 Repositório GitHub
 [https://github.com/LimaAlexandre-Dev/lambda-send-email.git](https://github.com/LimaAlexandre-Dev/lambda-send-email.git)

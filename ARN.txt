@@ -1,0 +1,1 @@
+arn:aws:ses:sa-east-1:023703779349:identity/Alexandre.budny1@gmail.com

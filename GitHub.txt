@@ -1,0 +1,1 @@
+https://github.com/LimaAlexandre-Dev/lambda-send-email.git
