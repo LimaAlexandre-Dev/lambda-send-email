@@ -29,5 +29,5 @@ Certifique-se de que a função está em modo privado e que os e-mails foram ver
 Informe o ARN da função aqui depois de criada.
 
 ## 🔗 Repositório GitHub
-[https://github.com/seuusuario/lambda-send-email](https://github.com/seuusuario/lambda-send-email)
+[https://github.com/LimaAlexandre-Dev/lambda-send-email.git](https://github.com/LimaAlexandre-Dev/lambda-send-email.git)
 # lambda-send-email
